@@ -1,0 +1,630 @@
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\bin\Release\dotMath.dll
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.pdb
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\Cicero.csprojResolveAssemblyReference.cache
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.Cache
+C:\Users\will\Documents\Cicero\Cicero-Word-Generator-master\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.pdb
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\bin\Release\dotMath.dll
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\bin\Release\DatabaseHelper.dll
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\Cicero.csprojResolveAssemblyReference.cache
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\will\Documents\Cicero\Cicero Master With BECV Database\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.Cache
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\DatabaseHelper.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\dotMath.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\DatabaseHelper.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\Cicero.csprojResolveAssemblyReference.cache
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.Cache
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\Enyim.Caching.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.pdb
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\DatabaseHelper.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\dotMath.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\Enyim.Caching.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\bin\Release\DatabaseHelper.pdb
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\Cicero.csprojResolveAssemblyReference.cache
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\Cicero Master With BECV Database\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.Cache
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\DatabaseHelper.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\dotMath.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\Enyim.Caching.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\bin\Release\DatabaseHelper.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\Cicero.csprojResolveAssemblyReference.cache
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.Cache
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\bin\Release\dotMath.dll
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\Cicero.csprojResolveAssemblyReference.cache
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.Cache
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\will\Desktop\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.pdb
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\bin\Release\dotMath.dll
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\Cicero.csprojResolveAssemblyReference.cache
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.Cache
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\BECV\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero + Zeus (non VC)\BEC 5 Cicero VC\WordGenerator\obj\Release\WordGenerator.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\Cicero.csprojResolveAssemblyReference.cache
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.LookUpTableTab.LookupTableControl.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.Cache
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\bin\Release\dotMath.dll
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.pdb
+C:\Users\will\Dropbox\Cold Atoms\Will\Cicero Update\BEC 5 Cicero VC (Latest)\WordGenerator\obj\Release\WordGenerator.Controls.varSelector.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\dotMath.dll
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\Cicero.csprojAssemblyReference.cache
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.LookUpTableTab.LookupTableControl.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.varSelector.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.cache
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\Cicero.csproj.CoreCompileInputs.cache
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\Cicero.csproj.CopyComplete
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\Will Lab\Desktop\Timing Control - Cicero & Atticus\Will Lunden Download\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.pdb
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\WordGenerator.exe.config
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\WordGenerator.exe
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\WordGenerator.pdb
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\DataStructures.dll
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\dotMath.dll
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\MySql.Data.dll
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\bin\Release\DataStructures.pdb
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\Cicero.csprojAssemblyReference.cache
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.ChannelManager.AddDevice.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.ChannelManager.ChannelManager.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.ChannelManager.EditDevice.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.CitationInfoForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.FormulaHelpDialog.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.Dialogs.LogAnnotator.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditorForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.LookUpTableTab.LookupTableControl.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.AnalogOverride.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.DigitalOverride.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.OverridePage.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.AutoNameGlossaryDialog.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.QuickEdit.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.PermanentVariablesEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.PropertyGridForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.PulseEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.PulsesPage.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.SequenceDifferencesForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.AnalogChannelLabelsPanel.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.AnalogGroupEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.CiceroSplashForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.CommonWaveformEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\wgControlLibrary.RS232GroupChannelSelection.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.Temporary.RS232GroupEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.AnalogPreviewPane.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.DigitalChannelLabelsPanel.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupChannelSelection.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.GpibGroupEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.GroupChannelSelection.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.HorizontalParameterEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.IParameterEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.ListEditorPanel.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.DigitalGrid.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.RunControl.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.SequenceExplorerForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.SequencePage.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.TimestepEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.StringParameterStringEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariableComboBox.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariableEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariablePreviewEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariableRelevanceEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VariablesAndListPage.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.VerticalParameterEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.WaveformEditor.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.WaveformGraphCollection.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.MainClientForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Controls.varSelector.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.Properties.Resources.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.RunForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.ServerManagerForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.SettingsExplorerForm.resources
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\Cicero.csproj.GenerateResource.cache
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\Cicero.csproj.CoreCompileInputs.cache
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\Cicero.csproj.CopyComplete
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.exe
+C:\Users\Columbia\Desktop\Cicero-Word-Generator-devel-BEC-5-Cicero\WordGenerator\obj\Release\WordGenerator.pdb

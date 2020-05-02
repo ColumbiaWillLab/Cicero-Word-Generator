@@ -479,6 +479,7 @@ namespace WordGenerator
                 this.gpibGroupEditor.setChannelCollection(settingsData.logicalChannelManager.ChannelCollections[HardwareChannel.HardwareConstants.ChannelTypes.gpib]);
                 this.rS232GroupEditor.setChannelCollection(settingsData.logicalChannelManager.ChannelCollections[HardwareChannel.HardwareConstants.ChannelTypes.rs232]);
                 this.overridePage.setSettings(Storage.settingsData);
+                this.lookupTableControl1.setUp();
                 this.sequencePage.layoutSettingsData();
                 this.sequencePage.updateOverrideCount();
                 this.useNetworkClockCheckBox.Checked = settingsData.AlwaysUseNetworkClock;
@@ -575,6 +576,7 @@ namespace WordGenerator
             if (Storage.SaveAndLoad.LoadSettingsData(null))
             {
                 RefreshSettingsDataToUI();
+                RefreshSequenceDataToUI();
                 this.handleMessageEvent(this, new MessageEvent("Loaded settings file " + this.openSettingsFileName));
             }
             else
@@ -1566,6 +1568,11 @@ namespace WordGenerator
         {
             CitationInfoForm cif = new CitationInfoForm(false);
             cif.ShowDialog();
+        }
+
+        private void sequencePage_Load(object sender, EventArgs e)
+        {
+
         }
 
     }

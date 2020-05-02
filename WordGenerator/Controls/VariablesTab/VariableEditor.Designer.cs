@@ -82,6 +82,8 @@ namespace WordGenerator.Controls
             this.listSelector.Size = new System.Drawing.Size(81, 21);
             this.listSelector.TabIndex = 2;
             this.listSelector.Visible = false;
+            this.listSelector.SelectedIndexChanged += new System.EventHandler(this.listSelector_SelectedIndexChanged);
+            this.listSelector.SelectionChangeCommitted += new System.EventHandler(this.listSelector_SelectionChangeCommitted);
             this.listSelector.SelectedValueChanged += new System.EventHandler(this.comboBox1_SelectedValueChanged);
             // 
             // deleteButton
@@ -113,6 +115,7 @@ namespace WordGenerator.Controls
             this.derivedValueLabel.TabIndex = 7;
             this.derivedValueLabel.Text = "label1";
             this.derivedValueLabel.Visible = false;
+            this.derivedValueLabel.Click += new System.EventHandler(this.derivedValueLabel_Click);
             // 
             // formulaTextBox
             // 
@@ -129,12 +132,12 @@ namespace WordGenerator.Controls
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.helpOnSupportedOperationsToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(228, 26);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(233, 26);
             // 
             // helpOnSupportedOperationsToolStripMenuItem
             // 
             this.helpOnSupportedOperationsToolStripMenuItem.Name = "helpOnSupportedOperationsToolStripMenuItem";
-            this.helpOnSupportedOperationsToolStripMenuItem.Size = new System.Drawing.Size(227, 22);
+            this.helpOnSupportedOperationsToolStripMenuItem.Size = new System.Drawing.Size(232, 22);
             this.helpOnSupportedOperationsToolStripMenuItem.Text = "Help on supported operations";
             this.helpOnSupportedOperationsToolStripMenuItem.Click += new System.EventHandler(this.helpOnSupportedOperationsToolStripMenuItem_Click);
             // 
@@ -142,12 +145,13 @@ namespace WordGenerator.Controls
             // 
             this.permanentValueLabel.AutoSize = true;
             this.permanentValueLabel.ForeColor = System.Drawing.Color.White;
-            this.permanentValueLabel.Location = new System.Drawing.Point(109, 4);
+            this.permanentValueLabel.Location = new System.Drawing.Point(110, 5);
             this.permanentValueLabel.Name = "permanentValueLabel";
             this.permanentValueLabel.Size = new System.Drawing.Size(110, 13);
             this.permanentValueLabel.TabIndex = 9;
             this.permanentValueLabel.Text = "permanentValueLabel";
             this.permanentValueLabel.Visible = false;
+            this.permanentValueLabel.Click += new System.EventHandler(this.permanentValueLabel_Click);
             // 
             // VariableEditor
             // 
@@ -163,6 +167,7 @@ namespace WordGenerator.Controls
             this.Controls.Add(this.textBox1);
             this.Name = "VariableEditor";
             this.Size = new System.Drawing.Size(220, 104);
+            this.Load += new System.EventHandler(this.VariableEditor_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.VariableEditor_Paint);
             ((System.ComponentModel.ISupportInitialize)(this.valueSelector)).EndInit();
             this.contextMenuStrip1.ResumeLayout(false);
